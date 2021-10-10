@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ednaldo Lima (@edinlima)
 - 👀 I’m interested in Web Development with Node.js, React and React Native.
 - 🌱 I’m currently learning Node.js e React.
+- :office_worker: I have knowledgment in Java and PHP applicatios, MySQL Database, Asterisk VoIP, Network and Linux OS
 - 💞️ I’m looking to collaborate on React and JavaScript projects.
 - 📫 How to reach me edinlima@gmail.com
 
